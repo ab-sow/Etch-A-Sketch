@@ -115,3 +115,15 @@
             width: 150px;
             font-size: larger;
         }
+  @media (max-width: 600px) {
+            .main-container{
+                width: 400px;
+                            }
+            .container{
+                width: 300px;
+            }
+            .btn{
+               width: 50px;
+               font-size: small; 
+            }
+        }
