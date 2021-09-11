@@ -117,10 +117,10 @@
         }
   @media (max-width: 600px) {
             .main-container{
-                width: 400px;
+                width: 600px;
                             }
             .container{
-                width: 300px;
+                width: 500px;
             }
             .btn{
                width: 50px;
