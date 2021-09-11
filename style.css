@@ -4,7 +4,7 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            width: 100%;
+            width: auto;
             height: 120vh;
             position: absolute;
             background-color: grey;
@@ -115,7 +115,7 @@
             width: 150px;
             font-size: larger;
         }
-  @media (max-width: 600px) {
+  @media (max-width: 800px) {
             .container{
                 width: 600px;
             }
